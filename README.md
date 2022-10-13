@@ -2,6 +2,10 @@
 
 Simple Library Management System created with Winforms + MySql
 
+## Setup
+
+Create the `App.config` file and add the connection string and AES_KEY to it.
+
 ## Screenshots
 
 #### Login
